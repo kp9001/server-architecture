@@ -1,2 +1,1 @@
-# server-architecture
-Assorted configurations for servers
+# Server-Architecture
