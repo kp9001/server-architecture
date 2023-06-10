@@ -1,3 +1,3 @@
 # Server-Architecture
 
-These configurations are currently in place on Fedora servers running [matrix-synapse](https://github.com/matrix-org/synapse) and nginx. 
+Assorted configurations running on my personal Linux server architecture. Focused on improving security by reducing attack surface. Based on server configurations from the [kicksecure](https://github.com/Kicksecure/security-misc), [GrapheneOS](https://github.com/GrapheneOS/infrastructure/), and [Brace](https://gitlab.com/divested/brace/).
